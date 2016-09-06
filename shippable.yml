@@ -10,7 +10,7 @@ integrations:
     - integrationName: "aws"
       type: aws
       target: eb_docker
-      #application_name: "sample-node-eb-docker-app"
+      application_name: "sample-node-eb-docker-app"
       #env_name: "docker-env"
       bucket_name: "elasticbeanstalk-us-east-1-480971114143"
       #region: "us-east-1"
